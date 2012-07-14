@@ -9,7 +9,7 @@ Description
 
 A guestbook designed in PHP for use on any website. This guestbook (unlike most I've found on the internet) is easily expandable, easily customizeable, completely templated, and best of all, secure.
 
-**NOTE:** It should be noted that this code was released initially back in 2003, and I haven't had a proper chance to give it a code update yet.  Is it functional? Yes.  Does it need some polish? Definitely.
+**NOTE:** It should be noted that this code was released initially back in 2003 under the name _peoGuest_, and I haven't had a proper chance to give it a code update yet.  Is it functional? Yes.  Does it need some polish? Definitely.
 It's on my list of things to update, but as the page that originally hosted the file is still getting hit regularly, I'm releasing the code here in GitHub in order to facilitate updates more frequently once 
 I get a chance to work this project.
 
