@@ -1,4 +1,4 @@
-SimpliGuest
+SimplíGuest
 ===========
 Version:         0.7
 Author:          Jamie Harrell (jamie@jamieharrell.com)
@@ -29,7 +29,7 @@ Installation
 License
 -------
 
-Copyright 2003 Jamie Harrell (Peoii). All rights reserved.
+SimplíGuest by [Jamie Harrell](http://www.jamieharrell.com/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 You may use the code associated with this project so long as you abide by the information located 
 within the LICENSE file included in the Git repository located at [github.com/peoii](https://github.com/peoii/SimpliGuest), 
